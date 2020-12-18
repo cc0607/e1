@@ -1,4 +1,3 @@
-e1
 <!DOCTYPE html>
 <script>
 	var value=Math.floor((Math.random()*10)+1);
